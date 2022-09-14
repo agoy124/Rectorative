@@ -1,0 +1,21 @@
+.slider h3,
+.slider h5 {
+  text-shadow: 4px 4px 6px rgba(0, 0, 0, 1);
+}
+
+.slider img{
+  opacity: .65;
+}
+
+.container .row {
+  text-align: justify;
+}
+
+section, footer {
+  padding: 20px;
+}
+
+.services img {
+  max-width: 20%;
+}
+
